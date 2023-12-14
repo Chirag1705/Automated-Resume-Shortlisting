@@ -7,3 +7,6 @@ User-Friendly Interface with Manual Input (HTML, Flask): Designed and implemente
 Detailed Result Export to Excel (Excel, Sorting Algorithms): Engineered a result export system that generates a comprehensive Excel sheet with columns such as similarity score, phone number, email address, candidate details, skills, and CGPA. Implemented sorting algorithms to arrange results in descending order of similarity score, enabling quick identification of the most suitable candidates at the top and the least suitable at the bottom.
 
 Advanced Data Processing with tfidfvectorization and Truncated SVD (Python, Machine Learning): Utilized advanced data processing techniques such as tfidfvectorization and Truncated SVD in Python to extract meaningful features from resumes and job descriptions. Enhanced the accuracy and efficiency of the shortlisting algorithm by employing machine learning principles, showcasing a commitment to leveraging technology for intelligent decision-making in the recruitment process.
+
+![image](https://github.com/Chirag1705/Automated-Resume-Shortlisting/assets/91147379/9ba737a2-aa0c-4480-a4d0-d0b93a39e3a9)
+
